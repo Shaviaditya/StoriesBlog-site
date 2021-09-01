@@ -1,4 +1,4 @@
-# Stories_Webapp
+# Stories BlogSite
 This is an Storyblogsite which was developed while I was trying to understand NodeJS and its libraries and understand how to implement user authentication using Google Oauth20 passport JS libraries and Express handlebar Libraries. 
 
 ## Requirements
